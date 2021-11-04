@@ -14,7 +14,7 @@ L'application doit afficher au minimum la température renvoyée par l'API: http
 
 Vous pouvez utiliser la route: https://openweathermap.org/current.
 
-Le projet doit être disponible sur un projet Github publique et communiquer à votre interlocuteur technique de Niji.
+Le projet doit être disponible sur un projet Github publique et communiqué à votre interlocuteur technique de Niji.
 
 Un exemple de ce qui est attendu:
 
